@@ -1,0 +1,40 @@
+[
+  {
+    "value": "Pav Bhaji",
+    "synonyms": [
+      "Pav Bhaji",
+      "bhaji pav",
+      "mumbai pav bhaji"
+    ]
+  },
+  {
+    "value": "Chole Bhature",
+    "synonyms": [
+      "Chole Bhature",
+      "Chole",
+      "Chhole",
+      "Chhole Puri",
+      "puri Chhole"
+    ]
+  },
+  {
+    "value": "pizza",
+    "synonyms": [
+      "pizza",
+      "pizzas",
+      "cheese pizza"
+    ]
+  },
+  {
+    "value": "mango lassi",
+    "synonyms": [
+      "mango lassi"
+    ]
+  },
+  {
+    "value": "samosa",
+    "synonyms": [
+      "samosa"
+    ]
+  }
+]
